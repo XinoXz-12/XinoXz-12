@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XinoXz-12
+## 👋 Hi, I’m @XinoXz-12
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning Desarrollo de Aplicaciones Web
 - 📫 How to reach me jaimelozanolozano12@gmail.com
